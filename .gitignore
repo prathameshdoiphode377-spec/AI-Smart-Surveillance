@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pkl
+*.db
+database/
+unknown_faces/
+security_logs/
+tempCodeRunnerFile.py
+.env
